@@ -18,15 +18,7 @@
 
 </div>
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghuramPuranam&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/RaghuramPuranam)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaghuramPuranam&theme=radical&hide_border=true)](https://github.com/RaghuramPuranam)
-
-</div>
 
 ---
 
